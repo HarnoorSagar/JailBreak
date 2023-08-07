@@ -1,0 +1,20 @@
+u:\documents\visual studio 2015\Projects\Final Project Day 1\Final Project Day 1\bin\Debug\Final Project Day 1.exe.config
+u:\documents\visual studio 2015\Projects\Final Project Day 1\Final Project Day 1\obj\Debug\Final Project Day 1.csprojResolveAssemblyReference.cache
+u:\documents\visual studio 2015\Projects\Final Project Day 1\Final Project Day 1\obj\Debug\Final_Project_Day_1.Form1.resources
+u:\documents\visual studio 2015\Projects\Final Project Day 1\Final Project Day 1\obj\Debug\Final_Project_Day_1.Properties.Resources.resources
+u:\documents\visual studio 2015\Projects\Final Project Day 1\Final Project Day 1\obj\Debug\Final Project Day 1.csproj.GenerateResource.Cache
+u:\documents\visual studio 2015\Projects\Final Project Day 1\Final Project Day 1\bin\Debug\Final Project Day 1.exe
+u:\documents\visual studio 2015\Projects\Final Project Day 1\Final Project Day 1\bin\Debug\Final Project Day 1.pdb
+u:\documents\visual studio 2015\Projects\Final Project Day 1\Final Project Day 1\obj\Debug\Final Project Day 1.exe
+u:\documents\visual studio 2015\Projects\Final Project Day 1\Final Project Day 1\obj\Debug\Final Project Day 1.pdb
+U:\Documents\Visual Studio 2015\Projects\Final Project Day 1\Final Project Day 1\bin\Debug\AudioPlayer.pdb
+C:\Noor Work\School Work\game\Final Project Day 8\Final Project Day 1\Final Project Day 1\bin\Debug\Final Project Day 1.exe.config
+C:\Noor Work\School Work\game\Final Project Day 8\Final Project Day 1\Final Project Day 1\obj\Debug\Final Project Day 1.exe
+C:\Noor Work\School Work\game\Final Project Day 8\Final Project Day 1\Final Project Day 1\obj\Debug\Final Project Day 1.pdb
+C:\Noor Work\School Work\game\Final Project Day 8\Final Project Day 1\Final Project Day 1\bin\Debug\Final Project Day 1.exe
+C:\Noor Work\School Work\game\Final Project Day 8\Final Project Day 1\Final Project Day 1\bin\Debug\Final Project Day 1.pdb
+C:\Noor Work\School Work\game\Final Project Day 8\Final Project Day 1\Final Project Day 1\bin\Debug\AudioPlayer.pdb
+C:\Noor Work\School Work\game\Final Project Day 8\Final Project Day 1\Final Project Day 1\obj\Debug\Final Project Day 1.csprojResolveAssemblyReference.cache
+C:\Noor Work\School Work\game\Final Project Day 8\Final Project Day 1\Final Project Day 1\obj\Debug\Final_Project_Day_1.Form1.resources
+C:\Noor Work\School Work\game\Final Project Day 8\Final Project Day 1\Final Project Day 1\obj\Debug\Final_Project_Day_1.Properties.Resources.resources
+C:\Noor Work\School Work\game\Final Project Day 8\Final Project Day 1\Final Project Day 1\obj\Debug\Final Project Day 1.csproj.GenerateResource.Cache
